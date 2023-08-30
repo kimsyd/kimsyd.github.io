@@ -8,7 +8,7 @@ published: true
 summary: "Designing and constructing a case for particle counters in the Canada-France-Hawaii telescope dome. A project I worked on as part of the Akamai summer internship with Canada-France-Hawaii Telescope."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/particle-counters.jpg">
 
 Determining air quality within telescope domes is invaluable to ensuring the health and cleanliness of the telescope mirror. Dust gathering on the mirror can affect observations and lead to noisy or inaccurate data. The purpose of this project was to fulfill the goal of monitoring air quality in the Canada-France-Hawaii Telescope dome by creating cases for the particle counters, which would be placed around different parts of the dome.
 
