@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Designing and constructing a case for particle counters in the Canada-France-Hawaii telescope dome"
+title: "Case for Particle Counters"
 date: 2021
 published: true
-summary: "A project I worked on as part of the Akamai summer internship with Canada-France-Hawaii Telescope."
+summary: "Designing and constructing a case for particle counters in the Canada-France-Hawaii telescope dome. A project I worked on as part of the Akamai summer internship with Canada-France-Hawaii Telescope."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
