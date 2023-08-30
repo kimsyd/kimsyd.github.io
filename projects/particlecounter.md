@@ -9,6 +9,8 @@ summary: "Designing and constructing a case for particle counters in the Canada-
 ---
 
 <img src="../img/particlecounter/particle-counters.jpg" width = 500>
+<img src="../img/particlecounter/casewithpi.jpg" width = 500>
+<img src="../img/particlecounter/emptybase.jpg" width = 500>
 
 Determining air quality within telescope domes is invaluable to ensuring the health and cleanliness of the telescope mirror. Dust gathering on the mirror can affect observations and lead to noisy or inaccurate data. The purpose of this project was to fulfill the goal of monitoring air quality in the Canada-France-Hawaii Telescope dome by creating cases for the particle counters, which would be placed around different parts of the dome.
 
