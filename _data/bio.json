@@ -10,7 +10,7 @@
     "profiles": [
       { "network": "github", "username": "kimsyd", "url": "http://github.com/kimsyd" },
       { "network": "linkedin", "url": "https://www.linkedin.com/in/sydney-kim-8aa1931a9/" },
-      { "network": "discord", "username": "sydneykimchee"},
+      { "network": "discord", "username": "sydneykimchee", "url": ""},
       { "network": "instagram", "username": "sydneykimchee", "url": "http://instagram.com/sydneykimchee" }
     ]
   },
