@@ -10,7 +10,7 @@
     "profiles": [
       { "network": "github", "username": "kimsyd", "url": "http://github.com/kimsyd" },
       { "network": "linkedin", "url": "https://www.linkedin.com/in/sydney-kim-8aa1931a9/" },
-      { "network": "discord", "username": "sydneykimchee", "url": ""},
+      { "network": "discord", "username": "sydneykimchee"},
       { "network": "instagram", "username": "sydneykimchee", "url": "http://instagram.com/sydneykimchee" }
     ]
   },
@@ -26,14 +26,14 @@
       "keywords": [ "C", "C++", "Java", "Javascript", "C#", "Python" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Photo Editing and Graphic Design Tools",
+      "keywords": [ "Photoshop", "Canva", "Procreate" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected graduation Spring 2024)",
+      "area": "Computer Science Data Science Track (expected graduation Spring 2024)",
       "studyType": "B.S.",
       "startDate": "2020-08-24",
       "endDate": "Present",
@@ -43,69 +43,70 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Bank of Hawaii",
+      "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-06-12",
+      "endDate": "2023-08-04",
+      "summary": "Customer Experience Department (Marketing Division)",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Modernized the Customer Experience internal SharePoint website by developing and implementing custom features and reorganizing website structure to create a better user experience for both new and experienced users",
+        "Categorized customer feedback data to identify opportunities for improving the bank’s services",
+        "Created personas used for understanding the wants, needs, and goals of different customers and employees based on their life cycle stage.",
+        "Attended and assisted at workshops implementing the Design Thinking process to generate ideas on internal improvements for workplace issues."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH Manoa First Year Programs",
+      "position": "ACE Peer Mentor",
+      "website": "https://manoa.hawaii.edu/undergrad/freshman/",
+      "startDate": "2021-06-08",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Build one-on-one relationships and assist incoming freshmen with their transition to university life",
+        "Teach a class introducing students to skills and resources for success in university life and beyond, including campus resources, time management, budgeting, and study skills",
+        "Create graphics and advertisements for program events to be printed as flyers, posted on social media, and distributed digitally.",
+        "Managing and updating Wordpress website reflecting program information, mentor pictures and biographies, and embedded links to registration."
+      ]
+    },
+    {
+      "company": "Canada-France-Hawaii Telescope",
+      "position": "Akamai Intern",
+      "website": "",
+      "startDate": "2021-06-13",
+      "endDate": "2021-08-03",
+      "summary": "",
+      "highlights": [
+        "Utilized computer-aided design and 3D printing to design and construct a case for particle counters in the CFHT dome",
+        "Participated in a design review and incorporated feedback to improve design",
+        "Delivered a final presentation to a technical audience with various fields of experience.",
+        "Shadowed engineers to learn about telescope instrumentation, summit operations, and remote observations"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Manoa Academy of Gamers",
+      "website": "https://www.instagram.com/manoaacademyofgamers/",
+      "position": "PR Representative",
+      "startDate": "2022-08-30",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Create graphics for events including flyers, social media posts, and Discord banners",
+        "Coordinate posts on official club social media platforms such as Instagram, Twitter, Discord, Facebook, and Twitch",
+        "Plan club events and work with fellow officers to improve the safe gaming environment created by the club",
+        "Communicate with sponsors and third-parties to plan collaborative events"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "UH Manoa Provost Achievement Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Part of the New Warrior Scholarship awards. Awards incoming freshmen who are Hawaii residents attending UH Manoa with a scholarship of $10,000/year for 4 years."
     }
   ],
   "references": [
