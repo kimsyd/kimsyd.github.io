@@ -1,4 +1,4 @@
-{
+e{
   "basics": {
     "name": "Sydney Kim",
     "label": "Student",
@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science (Data Science track) in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring 2024.",
     "profiles": [
       { "network": "github", "username": "kimsyd", "url": "http://github.com/kimsyd" },
-      { "network": "linkedin", "url": "https://www.linkedin.com/in/sydney-kim-8aa1931a9/" },
+      { "network": "linkedin", "username": "Sydney Kim", "url": "https://www.linkedin.com/in/sydney-kim-8aa1931a9/" },
       { "network": "discord", "username": "sydneykimchee"},
       { "network": "instagram", "username": "sydneykimchee", "url": "http://instagram.com/sydneykimchee" }
     ]
