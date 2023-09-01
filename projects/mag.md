@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/mag/welcomebackfa23.png
 title: "Creative work for Manoa Academy of Gamers"
 date: 2022
 published: true
