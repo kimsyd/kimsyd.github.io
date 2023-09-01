@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/univ/logo.jpg
+image: img/univ/logo.png
 title: "University Experience Course"
 date: 2023
 published: true
