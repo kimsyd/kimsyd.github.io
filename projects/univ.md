@@ -12,4 +12,4 @@ In the first year of college, students may struggle with being away from home, m
 
 As a mentor, I construct each lesson's discussion and activities based on our textbook, meet with students one-on-one three times each over the course of the semester, and host fun activities for class bonding outside of class time. I also grade homework, connect students to resources, and support them in their individual goals across the semester and beyond.
 
-Source: <a href="../img/univ/Sydney Fall 2023 UNIV 110 Syllabus.pdf"><i class="large github icon "></i>Fall 2023 UNIV 110 Syllabus</a>
+Source: <a href="../img/univ/2023syllabus.pdf"><i class="large github icon "></i>Fall 2023 UNIV 110 Syllabus</a>
