@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/univ/fyp-logo.jpg
+image: img/univ/logo.jpg
 title: "University Experience Course"
 date: 2023
 published: true
