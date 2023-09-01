@@ -1,12 +1,13 @@
+---
 layout: essay
 type: essay
 title: "Not a coffee drinker, but open to more JavaScript"
 # All dates must be YYYY-MM-DD format!
-date: 2022-08-31
+date: 2023-08-31
 published: true
 labels:
   - JavaScript
-  - Athletic software engineering
+  - Athletic Software Engineering
 ---
 
 Prior to our class, I did not know much about JavaScript besides the fact that it is used for website development to create and edit features. Based on the name I expected it to be similar to Java, in that it would be object-oriented and use similar syntax. I have had experience with other languages such as Python, Java, and C, but I have never implemented those languages with the goal of developing websites so I was not sure what to expect in that aspect. I have used HTML and CSS for very basic website features, so I was excited to learn JavaScript and be able to enhance my skills by integrating the three pieces of code. 
