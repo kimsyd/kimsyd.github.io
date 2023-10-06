@@ -11,6 +11,8 @@ labels:
   - UI Design
 ---
 
+<img src="essays/ui-frameworks.md" style="width: 300px">
+
 ## Gen Z and the evolution of UI design
 
 As frequent purveyors of the newest and greatest technologies, our generation has grown up watching trends in user interface design evolve and transform. With our collective experience with different UI systems, I like to think that we have developed an innate ability to sense what is functional and what may be less optimal that supersedes personal preference (most of the time). Because of this, I was excited to start learning about implementing UI features and acquiring the tools to experiment with my own UI designs. 
