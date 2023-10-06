@@ -11,7 +11,7 @@ labels:
   - UI Design
 ---
 
-<img src="img/ui-design.png" class = "rounded float-start pe-4" style="width: 300px">
+<img src="..img/ui/ui-design.png" class = "rounded float-start pe-4" style="width: 300px">
 
 ## Gen Z and the evolution of UI design
 
