@@ -27,7 +27,7 @@ Many students on campus have trouble finding clean facilities. It can be uncomfo
 - Each student has their own account to rate and browse facilities
 - Admin role mediates comments and ratings
 
-# Use case ideas
+## Use case ideas
 
 - Users look for nearby facilities
 - Users can rate facilities and leave helpful comments
