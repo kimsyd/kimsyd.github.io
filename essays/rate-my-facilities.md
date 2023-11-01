@@ -10,6 +10,10 @@ labels:
   - UH Manoa
 ---
 
+### Authors
+
+Silvia De Benedictis, Urban Halpern, Sydney Kim, Wilson Tran
+
 ## Overview
 
 Many students on campus have trouble finding clean facilities. It can be uncomfortable to use a restroom that is often out of toilet paper or has long lines. Likewise, filter status of all water dispensers on campus is not equal. We propose a webite that will display a map of facilities (restroom, water fountain, microwave, study spaces/labs, etc) and allow users to rate them and leave comments on their status. The website will also provide information like real-time updates to facilities, foot traffic to the area, and other helpful details.
