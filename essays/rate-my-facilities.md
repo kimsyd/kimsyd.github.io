@@ -32,3 +32,9 @@ Many students on campus have trouble finding clean facilities. It can be uncomfo
 - Users look for nearby facilities
 - Users can rate facilities and leave helpful comments
 - Users will be alerted if any facility is unable to be used or experiencing a shutdown
+
+## Beyond the basics
+
+- Individual users will be able to rate facilities and view an average of other users' ratings
+- Individual users will be able to leave comments on facility pages
+- Individual users will be able to save the location of favorited facilities
