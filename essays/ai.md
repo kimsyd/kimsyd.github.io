@@ -31,7 +31,7 @@ In recent years, artificial intelligence has become a large part of education, l
 - Explaining code - I have not used AI to explain code. I do not think I’ve had an instance in this class where I was unable to understand code. If I struggled, I would likely just refer to the documentation.
 - Writing code - I have not used AI to write code. I know that ChatGPT and Github CoPilot can generate code blocks, but I feel like this would slow me down if they used a component I was not familiar with or if I had to debug that code.
 - Documenting code - I have not used AI to document code. I feel that I can do this sufficiently on my own by writing my own comments and keeping a neat style.
-- Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>” - I have used AI for quality assurance in other classes, but not ICS 314. I have not felt so frustrated that I felt the need to do so, but now that I have used ChatGPT to analyze code for other classes, I would feel comfortable using it for ICS 314 if I had to. 
+- Quality assurance - I have used AI for quality assurance in other classes, but not ICS 314. I have not felt so frustrated that I felt the need to do so, but now that I have used ChatGPT to analyze code for other classes, I would feel comfortable using it for ICS 314 if I had to. 
 - Other uses in ICS 314 not listed - I have not used AI for any other purposes in ICS 314. I was not familiar with popular AI tools until relatively recently, and I never felt the need to utilize them even though I knew other students were doing so.
 
 ## Impact on Learning and Understanding
