@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/particlecounter/rmf.png
 title: "Rate My Facilities - a web application"
-date: 2022-12-15
+date: 2023-12-15
 published: true
 summary: "A web application designed to provide helpful information about the quality of campus facilities."
 ---
@@ -14,6 +14,13 @@ Key features of this application include an email/password login system, standar
 
 As a member of this project team, I implemented several key features, such as the UI of each individual facility's page, the page generation and routing for each individual facility page, and the facilities data structure. 
 
+<img src="../img/rmf_sc" width = 1000>
+An example of an individual facility's page. Ratings and comments are visible.
+
 This experience allowed me to learn and practice app development with Meteor, the React and Bootstrap Javascript libraries, collaborative planning and teamwork, issue-driven project management, and Github for code sharing. This project provides a satisfactory solution for the common student struggle of not knowing the facilities available to us while also providing a rich learning experience.
+
+The deployed site can be viewed here: <a href="https://ratemyfacilities.me/">Rate My Facilities.</a>
+
+The project site displaying screenshots of each page, milestone information, and developer instructions can be viewed here: <a href="https://d-facilitators.github.io/">RMF Project Site.</a>
 
 This project was a collaborative effort among the following authors: Silvia De Benedictis, Joshua Galeria, Urban Halpern, Sydney Kim, Wilson Tran.
