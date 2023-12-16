@@ -4,7 +4,7 @@ type: essay
 title: "Our home in the sky: Indigenous erasure in Hawaii"
 # All dates must be YYYY-MM-DD format!
 date: 2022-07-15
-published: true
+published: false
 labels:
   - Ethnic studies
   - Astronomy
