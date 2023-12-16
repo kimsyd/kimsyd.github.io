@@ -4,7 +4,7 @@ type: essay
 title: "Final project proposal: Rate my facilities"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-31
-published: true
+published: false
 labels:
   - Software Engineering
   - UH Manoa
