@@ -4,7 +4,7 @@ type: essay
 title: "Not a coffee drinker, but open to more JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
-published: true
+published: false
 labels:
   - JavaScript
   - Athletic Software Engineering
