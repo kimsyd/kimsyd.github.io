@@ -15,6 +15,7 @@ Key features of this application include an email/password login system, standar
 As a member of this project team, I implemented several key features, such as the UI of each individual facility's page, the page generation and routing for each individual facility page, and the facilities data structure. 
 
 <img src="../img/rmf_sc.png" width = 1000>
+
 An example of an individual facility's page. Ratings and comments are visible.
 
 This experience allowed me to learn and practice app development with Meteor, the React and Bootstrap Javascript libraries, collaborative planning and teamwork, issue-driven project management, and Github for code sharing. This project provides a satisfactory solution for the common student struggle of not knowing the facilities available to us while also providing a rich learning experience.
