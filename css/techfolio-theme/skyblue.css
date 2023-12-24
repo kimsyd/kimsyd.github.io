@@ -66,10 +66,10 @@ a {
 /* Overlay for the hover effect */
 .image-overlay {
   position: absolute;
-  top: 0;
+  bottom: 0; /* Align to the bottom of the container */
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 30%; /* Adjust the height to 30% */
   background: rgba(0, 0, 0, 0.5); /* Transparent black overlay */
   opacity: 0; /* Initially hidden */
   transition: opacity 0.3s ease;
@@ -78,9 +78,9 @@ a {
 /* Text styling for the overlay */
 .image-overlay p {
   position: absolute;
-  top: 50%;
+  bottom: 10%; /* Adjust the bottom position of the text within the overlay */
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
   color: white;
   font-size: 20px;
   text-align: center;
