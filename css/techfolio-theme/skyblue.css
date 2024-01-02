@@ -78,12 +78,15 @@ a {
 /* Text styling for the overlay */
 .image-overlay p {
   position: absolute;
-  bottom: 10%; /* Adjust the bottom position of the text within the overlay */
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   color: white;
+  font-size: 20px;
   text-align: center;
-  padding: 0 20px;
+  margin: 0; /* Reset margin */
+  padding: 10px;
 }
 
 /* Hover effect */
